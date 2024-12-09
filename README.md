@@ -13,6 +13,7 @@ Bibliotecas Python:
 `git clone https://github.com/LucasAlves03/--ProjetoUrna.git`  
 `cd --ProjetoUrna`  
 Pra rodar o script: `python script.py`  
+
 Ao rodar o script, as seguintes informações vão aparecer
 1. Cole o link do vídeo do YouTube: 
 2. Escolha a resolução (exemplo: 2160p, 1080p, 720p): 
