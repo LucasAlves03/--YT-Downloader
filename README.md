@@ -10,8 +10,7 @@ Bibliotecas Python:
 
 `pip install pytubefix tqdm`
 # Como Rodar o script
-`git clone https://github.com/LucasAlves03/--ProjetoUrna.git`  
-`cd --ProjetoUrna`  
+ 
 Pra rodar o script: `python script.py`  
 
 Ao rodar o script, as seguintes informações vão aparecer
